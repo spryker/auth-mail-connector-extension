@@ -6,6 +6,9 @@ The module provides plugin interfaces for extending AuthMailConnector module fun
 
 **DEPRECATED - This module is not continued at this point.**
 
+**The replacement:**
+- spryker/user-password-reset-extension
+
 ## Installation
 
 ```
